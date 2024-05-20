@@ -815,7 +815,7 @@ a.badge-secondary:focus, a.badge-secondary.focus {
 
 a.badge-success:hover, a.badge-success:focus {
   color: #fff;
-  background-color: #248f48;
+  background-color: #F0CEA2;
 }
 
 a.badge-success:focus, a.badge-success.focus {
@@ -1244,7 +1244,7 @@ fieldset:disabled a.btn {
 .btn-success:hover,.btn-success:focus, .btn-success.focus {
   color: #fff;
   background-color: #26994d;
-  border-color: #248f48;
+  border-color: #F0CEA2;
 }
 
 .btn-success:focus, .btn-success.focus {
@@ -1260,7 +1260,7 @@ fieldset:disabled a.btn {
 .btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active,
 .show > .btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #248f48;
+  background-color: #F0CEA2;
   border-color: #218543;
 }
 
@@ -10832,11 +10832,11 @@ html:not([dir="rtl"]) .c-switch-label .c-switch-slider::after {
 
 .c-switch-success .c-switch-input:checked + .c-switch-slider {
   background-color: #2eb85c;
-  border-color: #248f48;
+  border-color: #F0CEA2;
 }
 
 .c-switch-success .c-switch-input:checked + .c-switch-slider::before {
-  border-color: #248f48;
+  border-color: #F0CEA2;
 }
 
 .c-switch-3d-success .c-switch-input:checked + .c-switch-slider {
@@ -11937,7 +11937,7 @@ button.bg-secondary:focus {
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #248f48 !important;
+  background-color: #F0CEA2 !important;
 }
 
 .bg-info {
