@@ -186,14 +186,6 @@
                                 <div class="step-title waves-effect">Deployment Type</div>
                                 <div class="step-content">
                                     <strong>Select</strong> how you want to setup your server:
-                                    <div class="bigbutton deployment-type-card border-dark next-step" onclick="selectDeploymentType('popular')">
-                                        <span class="title"><strong>⭐ Popular Recipes</strong> <span class="badge badge-danger">RECOMMENDED</span></span>
-                                        <br>
-                                        <span class="description">
-                                            Select a template from a curated list of community favorites. <br>
-                                            This includes QBCore, ESX and a Default template for you to customize.
-                                        </span>
-                                    </div>
                                     <div class="bigbutton deployment-type-card border-dark next-step" onclick="selectDeploymentType('local')">
                                         <span class="title"><strong>📁 Existing Server Data</strong></span>
                                         <br>
@@ -201,22 +193,6 @@
                                             Select an existing server data folder in the host. <br>
                                             Only select this option if you already have a <code class="keep-original">server.cfg</code> and a <code class="keep-original">resources</code> folder. <br>
                                             If you are not running fxserver in your computer, you need to first upload those files to the server's host.
-                                        </span>
-                                    </div>
-                                    <div class="bigbutton deployment-type-card border-dark next-step" onclick="selectDeploymentType('remote')">
-                                        <span class="title"><strong>📥 Remote URL Template</strong></span>
-                                        <br>
-                                        <span class="description">
-                                            Based on a Recipe URL in the YAML format. <br>
-                                            You will have the option to edit the Recipe before running it.
-                                        </span>
-                                    </div>
-                                    <div class="bigbutton deployment-type-card border-dark next-step" onclick="selectDeploymentType('custom')">
-                                        <span class="title"><strong>📑 Custom Template</strong></span>
-                                        <br>
-                                        <span class="description">
-                                            This is recommended if you have a custom recipe-based server or if you are writing your own recipe. 
-                                            You will be asked for the recipe right after this page.
                                         </span>
                                     </div>
                                     <div class="step-actions">
