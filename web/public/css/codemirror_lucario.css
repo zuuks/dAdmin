@@ -21,16 +21,16 @@
   .cm-s-lucario span.cm-number { color: #ca94ff; }
   .cm-s-lucario span.cm-variable { color: #f8f8f2; }
   .cm-s-lucario span.cm-variable-2 { color: #fdfdc6; }
-  .cm-s-lucario span.cm-def { color: #72C05D; }
+  .cm-s-lucario span.cm-def { color: #F0CEA2; }
   .cm-s-lucario span.cm-operator { color: #66D9EF; }
   .cm-s-lucario span.cm-keyword { color: #ff6541; }
   .cm-s-lucario span.cm-atom { color: #bd93f9; }
   .cm-s-lucario span.cm-meta { color: #f8f8f2; }
   .cm-s-lucario span.cm-tag { color: #ff6541; }
   .cm-s-lucario span.cm-attribute { color: #66D9EF; }
-  .cm-s-lucario span.cm-qualifier { color: #72C05D; }
+  .cm-s-lucario span.cm-qualifier { color: #F0CEA2; }
   .cm-s-lucario span.cm-property { color: #f8f8f2; }
-  .cm-s-lucario span.cm-builtin { color: #72C05D; }
+  .cm-s-lucario span.cm-builtin { color: #F0CEA2; }
   .cm-s-lucario span.cm-variable-3, .cm-s-lucario span.cm-type { color: #ffb86c; }
 
   .cm-s-lucario .CodeMirror-activeline-background { background: #243443; }
