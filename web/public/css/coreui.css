@@ -1243,12 +1243,12 @@ fieldset:disabled a.btn {
 
 .btn-success:hover,.btn-success:focus, .btn-success.focus {
   color: #fff;
-  background-color: #26994d;
+  background-color: #F0CEA2;
   border-color: #F0CEA2;
 }
 
 .btn-success:focus, .btn-success.focus {
-  box-shadow: 0 0 0 0.2rem rgba(77, 195, 116, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(240, 206, 162,.5);
 }
 
 .btn-success.disabled, .btn-success:disabled {
@@ -1261,12 +1261,12 @@ fieldset:disabled a.btn {
 .show > .btn-success.dropdown-toggle {
   color: #fff;
   background-color: #F0CEA2;
-  border-color: #218543;
+  border-color: #F0CEA2;
 }
 
 .btn-success:not(:disabled):not(.disabled):active:focus, .btn-success:not(:disabled):not(.disabled).active:focus,
 .show > .btn-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(77, 195, 116, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(240, 206, 162,.5);
 }
 
 .btn-info {
@@ -2823,12 +2823,12 @@ html:not([dir="rtl"]) .c-callout-dark {
 }
 
 .card.bg-success {
-  border-color: #218543;
+  border-color: #F0CEA2;
 }
 
 .card.bg-success .card-header {
   background-color: #2bac56;
-  border-color: #218543;
+  border-color: #F0CEA2;
 }
 
 .card.bg-info {

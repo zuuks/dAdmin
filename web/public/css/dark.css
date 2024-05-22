@@ -235,7 +235,7 @@ body.theme--dark .form-control[disabled], body.theme--dark .form-control[readonl
   cursor: not-allowed;
 }
 body.theme--dark .form-control:focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 191, 143, 0.15);
+  box-shadow: 0 0 0 0.2rem rgba(240, 206, 162,0.15);
 }
 body.theme--dark .form-control.is-valid, body.theme--dark .was-validated .form-control:valid {
   border-color: #F0CEA2;

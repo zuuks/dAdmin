@@ -84,7 +84,7 @@ option:disabled {
     background-color: #fff;
 }
 .c-sidebar .c-sidebar-nav-link.c-active {
-    border-left: aquamarine solid 3px;
+    border-left: #F0CEA2 solid 3px;
 }
 [data-notify="message"] pre{
 	white-space: normal;
@@ -142,7 +142,7 @@ option:disabled {
 .consoleMark-cmd {background-color: #ffeaa7;}
 .consoleMark-error {background-color: #ffbfa7;}
 .consoleMark-info {background-color: #a7d4ff;}
-.consoleMark-ok {background-color: #a7ffae;}
+.consoleMark-ok {background-color: #F0CEA2;}
 mark {background-color: #ffeaa7;}
 
 
@@ -332,7 +332,7 @@ mark {background-color: #ffeaa7;}
 .txSpinner,
 .txSpinner:before,
 .txSpinner:after {
-    background: #00c88f;
+    background: #F0CEA2;
     -webkit-animation: txSpinnerLoad 1s infinite ease-in-out;
     animation: txSpinnerLoad 1s infinite ease-in-out;
     width: 1em;
@@ -340,7 +340,7 @@ mark {background-color: #ffeaa7;}
 }
 
 .txSpinner {
-    color: #00c88f;
+    color: #F0CEA2;
     text-indent: -9999em;
     margin: 88px auto;
     position: relative;
