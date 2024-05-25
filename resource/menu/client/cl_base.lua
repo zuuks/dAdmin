@@ -67,11 +67,7 @@ AddEventHandler('upaliTx', function()
   -- Make visible
   toggleMenuVisibility()
 
-  -- Shortcut to open a specific players profile
-  if isMenuVisible and #args >= 1 then
-    local targetPlayer = table.concat(args, ' ')
-    sendMenuMessage('openPlayerModal', targetPlayer)
-  end
+ 
 end)
 
 -- This needs to run even when menu is disabled so the ServerCtx
